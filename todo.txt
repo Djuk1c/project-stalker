@@ -1,0 +1,4 @@
+Delete off-screen bullets
+Animation in sprite
+Pre-make animation images instead of generating them every anim frame
+Bullet point of rot center
